@@ -1,0 +1,1 @@
+<div class="pstds_storewide_sale pstds-top" style="background-image: url(<?php echo PSTDS_ASSETS_DIR_URL . '/images/header.jpg'; ?>) !important;"><?php echo htmlspecialchars_decode( $banner ); ?></div>

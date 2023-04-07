@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Solcoders
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-31 12:12+0500\n"
+"PO-Revision-Date: 2022-10-31 12:12+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 1.0.0.0\n"
+
+#: dependencies.php:52
+msgid "The WooCommerce plugin must be active for "
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:34
+msgid "Store Time & Discounts"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:85
+msgid "Store Time Settings"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:91
+msgid "Enable Store Timing"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:94
+msgid "Check here to enable store time feature"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:97
+msgid "Timezone"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:104
+msgid "Store Open Time"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:109
+msgid "Store Closed Time"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:114
+msgid "Store Closed Notice (Product Page)"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:117
+msgid "Note : Please enter notice when store is closed "
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:121
+msgid "Cart Empty Notice (Closed Store)"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:124
+msgid ""
+"Note : Please enter notice when user is about to checkout the filled cart "
+"during closed time."
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:134
+msgid "Store Discount Settings"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:139
+msgid "Enable Discount Feature"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:142
+msgid "Check here to enable discount feature"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:145
+msgid "Enable Discount on already sale products?"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:148
+msgid "Check here to apply sale on products which are on sale already"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:151
+msgid "Discount Type"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:156
+msgid "Choose Type From Dropdown"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:157
+msgid "Product Level"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:158
+msgid "Site Wide"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:162
+msgid "Site Discount (Percent)"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:167
+msgid "Enable Store Wide Discount Banner"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:170
+msgid "Check here to enable discount banner"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:173
+msgid "Store Wide Banner Notice"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:176
+msgid "Note : Please enter notice when the store wide discount is enabled."
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:180
+msgid "Product Discount (Percent)"
+msgstr ""
+
+#: includes/admin/class-pstds-settings.php:185
+msgid "Select Products"
+msgstr ""
